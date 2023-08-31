@@ -1,1 +1,1 @@
-# Travel Agency System for the course "ReactJs - october 2023"
+# TravelAgency System for "ReactJs - october 2023"
