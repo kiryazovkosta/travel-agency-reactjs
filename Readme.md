@@ -1,1 +1,1 @@
-# Travel Agency System for Softuni's course "ReactJs - october 2023"
+# Travel Agency System for the course "ReactJs - october 2023"
